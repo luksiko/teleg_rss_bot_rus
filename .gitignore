@@ -61,4 +61,6 @@ typings/
 .idea
 
 # user config
-config.json
+
+
+.vercel
