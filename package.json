@@ -4,10 +4,10 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "node src/index.js"
   },
   "engines": {
-    "node": ">=14.15.1"
+    "node": "14.15.1"
   },
   "author": "",
   "license": "ISC",
